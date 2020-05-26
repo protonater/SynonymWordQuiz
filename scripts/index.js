@@ -114,6 +114,6 @@ nextBtn.addEventListener('click', () => {
                 quizMessage.style.color = "red";
             }
         }
-    } F
+    }
 })
 
