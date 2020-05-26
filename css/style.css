@@ -4,10 +4,6 @@
     text-align: center;
     color: #fff;
     font-size: 2em;
-    /* width: 90%;
-    height: auto;
-    margin: auto;
-    border-radius: 6px; */
 }
 
 ul {
@@ -75,14 +71,3 @@ p {
     font-family: Courier, serif;
     color: blueviolet;
 }
-
-/* .result {
-    width: 30%;
-    height: auto;
-    border-radius: 6px;
-    background-color: linen;
-    margin: auto;
-    margin-bottom: 35px;
-    text-align: center;
-    font-family: 'Rokkitt', serif;
-} */
