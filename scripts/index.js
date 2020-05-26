@@ -20,7 +20,6 @@ function displayCurrQuestion() {
     // Add the choices for the question
     for (let i = 0; i < 4; i++) {
         let li = document.createElement('li');
-        // choiceProp = quest.choices[i];
         li.innerHTML = `<input type="radio" value="${quest.choices[i].choiceWord}" name="dynradio"/>${quest.choices[i].choiceWord}`;
         choiceList.appendChild(li);
     }
